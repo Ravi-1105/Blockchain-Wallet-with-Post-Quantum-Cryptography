@@ -14,6 +14,14 @@ This smart contract simulates a **post-quantum cryptographic wallet system** usi
 
 ---
 
+## Project Structure
+```
+PostQuantumWallet/
+├── contracts/
+│   └── PostQuantumWallet.sol
+├── README.md
+```
+
 ## 📄 Smart Contract Overview
 
 ### Contract State & Structure
