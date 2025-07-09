@@ -1,16 +1,16 @@
-# 🔐 PostQuantumWallet – A Simulated Post-Quantum Secure Ethereum Wallet
+# PostQuantumWallet – A Simulated Post-Quantum Secure Ethereum Wallet
 
 This smart contract simulates a **post-quantum cryptographic wallet system** using **keccak256** hashes as stand-ins for quantum-safe signatures. It supports passwordless registration, ETH deposit/withdrawal, and transaction signature verification logic (simulated).
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📌 **User Registration** with auto-generated `publicKeyHash`
-- 🔐 **Simulated Signature Verification** using `keccak256`
-- 💰 **ETH Deposit and Withdrawal Support**
-- 📤 **Internal Transfers** with signature-based verification
-- ⚙️ Designed to demonstrate how post-quantum principles could integrate with Solidity
+-  **User Registration** with auto-generated `publicKeyHash`
+-  **Simulated Signature Verification** using `keccak256`
+-  **ETH Deposit and Withdrawal Support**
+-  **Internal Transfers** with signature-based verification
+-  Designed to demonstrate how post-quantum principles could integrate with Solidity
 
 ---
 
@@ -29,7 +29,7 @@ Wallets could shift to quantum-resistant techniques
 
 Blockchain contracts can support non-ECDSA identities
 
-## 📄 Smart Contract Overview
+##  Smart Contract Overview
 
 ### Contract State & Structure
 ```Solidity
