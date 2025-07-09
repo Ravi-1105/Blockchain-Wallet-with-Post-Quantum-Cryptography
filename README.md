@@ -142,3 +142,6 @@ Lets someone deposit ETH into another user’s balance
 
 Useful for third-party top-ups or testing
 
+## Technical Output:
+![image](https://github.com/user-attachments/assets/32284d3c-20d3-448d-9a80-e9aef10a868f)
+
