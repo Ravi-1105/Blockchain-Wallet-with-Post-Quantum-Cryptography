@@ -22,6 +22,13 @@ PostQuantumWallet/
 ├── README.md
 ```
 
+## Why Post-Quantum?
+The rise of quantum computing poses a threat to classical public-key cryptosystems (like ECDSA). This project explores how:
+
+Wallets could shift to quantum-resistant techniques
+
+Blockchain contracts can support non-ECDSA identities
+
 ## 📄 Smart Contract Overview
 
 ### Contract State & Structure
